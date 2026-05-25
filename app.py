@@ -1,6 +1,11 @@
 import streamlit as st
 import requests
 import json
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv()  # loads .env locally, ignored on Streamlit Cloud
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -10,7 +15,7 @@ st.set_page_config(
 )
 
 # ── API endpoint ───────────────────────────────────────────────────────────────
-API_URL = "https://returns-agent-app--v3.kindsky-528b62e5.swedencentral.azurecontainerapps.io/responses"
+API_URL = os.environ.get("API_URL", "http://localhost:8088/responses")
 
 # ── Header ─────────────────────────────────────────────────────────────────────
 st.title("🤖 Returns Resolution Agent")
