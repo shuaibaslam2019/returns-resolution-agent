@@ -137,3 +137,8 @@ returns-agent/
 - Structured output extraction (JSON from free-text LLM responses)
 - B2B domain modelling (returns logistics, CRM integration)
 - Production patterns: cleanup, error handling, thread management
+
+---
+
+## Live Demo
+🌐 **[returns-resolution-agent.streamlit.app](https://returns-resolution-agent.streamlit.app)**
