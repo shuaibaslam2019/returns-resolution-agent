@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "sku": "WMS-SCAN-5500",
+      "name": "Zebra DS5500 Industrial Barcode Scanner",
+      "category": "Scanning Equipment",
+      "unit_price_eur": 420,
+      "warranty_months": 12,
+      "returnable": true,
+      "notes": "Commonly deployed in warehouse pick-and-pack stations."
+    },
+    {
+      "sku": "LBL-PRN-ZT411",
+      "name": "Zebra ZT411 Industrial Label Printer",
+      "category": "Printing Equipment",
+      "unit_price_eur": 1150,
+      "warranty_months": 12,
+      "returnable": true,
+      "notes": "Standard thermal label printer for logistics labels up to 4 inches."
+    },
+    {
+      "sku": "LBL-PRN-ZT421",
+      "name": "Zebra ZT421 Industrial Label Printer",
+      "category": "Printing Equipment",
+      "unit_price_eur": 1380,
+      "warranty_months": 12,
+      "returnable": true,
+      "notes": "Wider carriage version — not compatible with ZT411 label templates."
+    },
+    {
+      "sku": "RFID-HDH-R700",
+      "name": "Impinj R700 RFID Fixed Reader",
+      "category": "RFID Infrastructure",
+      "unit_price_eur": 2800,
+      "warranty_months": 24,
+      "returnable": true,
+      "notes": "Enterprise-grade fixed RFID reader. High-value item, requires on-site inspection for returns."
+    },
+    {
+      "sku": "CONV-BELT-M2000",
+      "name": "Hytrol M2000 Conveyor Belt Module",
+      "category": "Material Handling",
+      "unit_price_eur": 7400,
+      "warranty_months": 24,
+      "returnable": true,
+      "notes": "High-value item. On-site inspection required. Technical team sign-off mandatory for returns."
+    },
+    {
+      "sku": "MHE-FORK-ELT3",
+      "name": "Linde ELT3 Electric Order Picker",
+      "category": "Material Handling Equipment",
+      "unit_price_eur": 18500,
+      "warranty_months": 24,
+      "returnable": true,
+      "notes": "Safety-critical equipment. Any safety defect is auto-escalated to P1. On-site inspection required."
+    },
+    {
+      "sku": "PKG-WRAP-AUTO5",
+      "name": "Robopac AutoWrap-5 Stretch Wrap Machine",
+      "category": "Packaging Equipment",
+      "unit_price_eur": 3200,
+      "warranty_months": 12,
+      "returnable": true,
+      "notes": "Semi-automatic pallet wrapper. Bearings and rollers covered under standard warranty."
+    }
+  ]
+}

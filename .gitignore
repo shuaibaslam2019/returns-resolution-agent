@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.local
+*.env
+
+# Azure dev environment (contains subscription ID, keys)
+.azure/
+**/.azure/
+azd-ai-starter-basic/.azure/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Output files (generated, not source)
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/

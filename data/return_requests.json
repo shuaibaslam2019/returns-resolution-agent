@@ -1,0 +1,74 @@
+[
+  {
+    "id": "RET-2024-001",
+    "customer_id": "CUST-DE-0891",
+    "company": "Müller Logistik GmbH",
+    "order_id": "ORD-98234",
+    "product_sku": "WMS-SCAN-5500",
+    "submitted_at": "2024-11-14T09:23:00Z",
+    "free_text": "We received 12 units of the Zebra DS5500 barcode scanners last week. After deploying them in our warehouse, 4 of them are completely unresponsive — they power on but the scan beam never activates. Our operations team is blocked. We need replacements urgently as we process 3,000 shipments daily."
+  },
+  {
+    "id": "RET-2024-002",
+    "customer_id": "CUST-DE-1142",
+    "company": "TechDistrib AG",
+    "order_id": "ORD-99105",
+    "product_sku": "LBL-PRN-ZT411",
+    "submitted_at": "2024-11-15T14:05:00Z",
+    "free_text": "Hello, we ordered 3 label printers (ZT411) but received 3 ZT421 models instead. These are not compatible with our existing label templates and software configuration. We did not order these. Please arrange pickup and send the correct models."
+  },
+  {
+    "id": "RET-2024-003",
+    "customer_id": "CUST-AT-0034",
+    "company": "Österreich Fulfillment KG",
+    "order_id": "ORD-97788",
+    "product_sku": "RFID-HDH-R700",
+    "submitted_at": "2024-11-16T08:45:00Z",
+    "free_text": "We need to return 2 Impinj R700 RFID readers. We originally purchased them for a pilot project that has now been cancelled due to budget cuts. The items are in perfect condition, original packaging, unopened. Invoice date was October 3rd, 2024. Can we get a full refund?"
+  },
+  {
+    "id": "RET-2024-004",
+    "customer_id": "CUST-DE-2201",
+    "company": "Brenntag Logistics",
+    "order_id": "ORD-100312",
+    "product_sku": "CONV-BELT-M2000",
+    "submitted_at": "2024-11-17T11:30:00Z",
+    "free_text": "The conveyor belt module M2000 arrived with visible dents on the side panel and one motor mount was cracked. Clearly damaged in transit. We have photos. The unit is not functional. We want either a replacement or full refund. This is holding up our entire packing line."
+  },
+  {
+    "id": "RET-2024-005",
+    "customer_id": "CUST-DE-3310",
+    "company": "FastShip GmbH",
+    "order_id": "ORD-95001",
+    "product_sku": "WMS-SCAN-5500",
+    "submitted_at": "2024-11-18T16:20:00Z",
+    "free_text": "We want to return 6 barcode scanners. We bought 20 units in August but ended up not needing all of them. They've been sitting in storage. Some have been opened but not really used. We'd like store credit if possible."
+  },
+  {
+    "id": "RET-2024-006",
+    "customer_id": "CUST-CH-0501",
+    "company": "SwissLog Partners",
+    "order_id": "ORD-101450",
+    "product_sku": "MHE-FORK-ELT3",
+    "submitted_at": "2024-11-19T10:00:00Z",
+    "free_text": "Our electric forklift ELT3 has been randomly shutting down mid-operation after only 3 weeks of use. Battery indicator shows full charge. Error code E-14 appears on display. This is a safety hazard — we have paused operations. Need immediate technical support or replacement unit."
+  },
+  {
+    "id": "RET-2024-007",
+    "customer_id": "CUST-DE-4450",
+    "company": "NordPack AG",
+    "order_id": "ORD-88900",
+    "product_sku": "PKG-WRAP-AUTO5",
+    "submitted_at": "2024-11-20T09:15:00Z",
+    "free_text": "We purchased the AutoWrap-5 stretch wrap machine 7 months ago. The film tension roller bearing has failed. Our in-house technician confirmed it's a component defect, not misuse. The machine is under the 12-month warranty. Please send a replacement bearing kit or schedule a service visit."
+  },
+  {
+    "id": "RET-2024-008",
+    "customer_id": "CUST-DE-5501",
+    "company": "Rhenania Distributions",
+    "order_id": "ORD-102001",
+    "product_sku": "LBL-PRN-ZT411",
+    "submitted_at": "2024-11-21T13:45:00Z",
+    "free_text": "We ordered 5 label printers but only need 2 now. Management changed the deployment plan. We would like to return 3 units. They are in original boxes, never powered on. Order was placed 45 days ago."
+  }
+]
