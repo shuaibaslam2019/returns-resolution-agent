@@ -22,7 +22,7 @@ st.set_page_config(
 with st.sidebar:
     st.image("https://avatars.githubusercontent.com/shuaibaslam2019", width=72)
     st.markdown("### Shuaib Aslam")
-    st.markdown("Software Developer | AI Engineer |  Azure AI Foundry")
+    st.markdown("Software Developer | LLM & AI Developer |  Azure AI Foundry")
     st.markdown(
         "[GitHub](https://github.com/shuaibaslam2019) · "
         "[LinkedIn](https://linkedin.com/in/m-shuaib-aslam)"
